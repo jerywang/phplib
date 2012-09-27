@@ -4,8 +4,4 @@
 # phplib
 #
 
-index.php
-    .\system
-	.\app-web
-	.\app-core
-	
+./upload # swfupload and formupload

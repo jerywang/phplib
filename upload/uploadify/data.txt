@@ -1,0 +1,84 @@
+Array
+(
+    [file] => Array
+        (
+            [name] => Shanghaiviewpic1.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\php8622.tmp
+            [error] => 0
+            [size] => 6327832
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => Shanghaiviewpic1.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\php7467.tmp
+            [error] => 0
+            [size] => 6327832
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => QQ截图20120816152156.png
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\phpEA53.tmp
+            [error] => 0
+            [size] => 46335
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => QQ截图20120816152156.png
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\php25AE.tmp
+            [error] => 0
+            [size] => 46335
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => Shanghaiviewpic1.jpg
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\php27B2.tmp
+            [error] => 0
+            [size] => 6327832
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => QQ截图20120816152156.png
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\php7AA3.tmp
+            [error] => 0
+            [size] => 46335
+        )
+
+)
+Array
+(
+    [file] => Array
+        (
+            [name] => QQ截图20120816152156.png
+            [type] => application/octet-stream
+            [tmp_name] => C:\Users\spring\AppData\Local\Temp\phpC5A7.tmp
+            [error] => 0
+            [size] => 46335
+        )
+
+)

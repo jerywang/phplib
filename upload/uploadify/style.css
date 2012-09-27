@@ -1,0 +1,55 @@
+#basic-demo .uploadifyQueueItem {
+
+background-color: #F5F5F5;
+
+border: 2px solid #E5E5E5;
+
+font: 11px Verdana, Geneva, sans-serif;
+
+margin-top: 5px;
+
+padding: 10px;
+
+width: 350px;
+
+}
+
+#basic-demo .uploadifyError {
+
+background-color: #FDE5DD !important;
+
+border: 2px solid #FBCBBC !important;
+
+}
+
+#basic-demo .uploadifyQueueItem .cancel {
+
+float: right;
+
+}
+
+#basic-demo .uploadifyQueue .completed {
+
+background-color: #E5E5E5;
+
+}
+
+#basic-demo .uploadifyProgress {
+
+background-color: #E5E5E5;
+
+margin-top: 10px;
+
+width: 100%;
+
+}
+
+#basic-demo .uploadifyProgressBar {
+
+background-color: #0099FF;
+
+height: 3px;
+
+width: 1px;
+
+}
