@@ -1,0 +1,11 @@
+#
+# author jerrywang 554952580@qq.com
+#
+# phplib
+#
+
+index.php
+    .\system
+	.\app-web
+	.\app-core
+	
